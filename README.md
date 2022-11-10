@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdubey27&label=Profile%20views&color=0e75b6&style=flat" alt="anishdubey27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishdubey27" alt="anishdubey27" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anish_dubey_" target="blank"><img src="https://img.shields.io/twitter/follow/anish_dubey_?logo=twitter&style=for-the-badge" alt="anish_dubey_" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps tools**
@@ -29,4 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishdubey27&show_icons=true&locale=en&layout=compact" alt="anishdubey27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishdubey27&show_icons=true&theme=dracula&title_color=f70505&bg_color=1e00ff&hide_border=true&locale=en" alt="anishdubey27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishdubey27&show_icons=true&theme=dracula&title_color=fff8f8&bg_color=1e00ff&hide_border=true&locale=en" alt="anishdubey27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdubey27&" alt="anishdubey27" /></p>
