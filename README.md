@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishdubey27&show_icons=true&theme=tokyonight&title_color=1919c8&text_color=1919c8&bg_color=000000&hide_border=true&cache_seconds=5&locale=en" alt="anishdubey27" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdubey27&theme=dark" alt="anishdubey27" /></p>
+
