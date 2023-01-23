@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdubey27&label=Profile%20views&color=2b00ff&style=plastic" alt="anishdubey27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anish_dubey_" target="blank"><img src="https://img.shields.io/twitter/follow/anish_dubey_?logo=twitter&style=for-the-badge" alt="anish_dubey_" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps tools**
 
