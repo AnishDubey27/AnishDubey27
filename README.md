@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **DevOps tools**
 
-- 📝 I regularly post content on [https://www.twitter.com/Anish_Dubey_](https://www.twitter.com/Anish_Dubey_)
+- 📝 I regularly post content on [Twitter](https://www.twitter.com/anish_dubey_)
 
 - 💬 Ask me about **Golang, Java**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J9XaroUiQMhAJbwINP5X5OS0jU0p-ip9/view?usp=share_link](https://drive.google.com/file/d/1J9XaroUiQMhAJbwINP5X5OS0jU0p-ip9/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1J9XaroUiQMhAJbwINP5X5OS0jU0p-ip9/view?usp=share_link)
 
 - ⚡ Fun fact **I love physique training**
 
